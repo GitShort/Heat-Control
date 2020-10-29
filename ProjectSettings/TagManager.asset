@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bucket
+  - Water
+  - Fire
+  - FireExt
+  - Vegetation
+  - GameManager
+  - Hammer
+  - Glass
+  - Environment
+  - Music
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - InteractableObject
+  - Environment
+  - Vegetation
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FireFirst
+    uniqueID: 1440993855
+    locked: 0
+  - name: FireSecond
+    uniqueID: 347122373
+    locked: 0
+  - name: FireThird
+    uniqueID: 2093598087
+    locked: 0
